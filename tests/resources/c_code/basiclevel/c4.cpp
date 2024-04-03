@@ -1,0 +1,1 @@
+#define CPPMAX(x,y) ((x)+(y) < 5?y:x)
